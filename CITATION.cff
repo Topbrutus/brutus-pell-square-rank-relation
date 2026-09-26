@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite this release."
+title: "Brutus-Pell Square-Rank Relation"
+type: article
+version: 0.1.0
+date-released: 2026-09-25
+authors:
+  - family-names: "St-Pierre"
+    given-names: "Gabriel"
+repository-code: "https://github.com/Topbrutus/brutus-pell-square-rank-relation"
+keywords:
+  - Pell sequence
+  - rank of apparition
+  - Lucas sequence
+  - prime-power lifting
