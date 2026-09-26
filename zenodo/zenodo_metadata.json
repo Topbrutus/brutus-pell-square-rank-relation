@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "title": "Brutus-Pell Square-Rank Relation",
+    "upload_type": "publication",
+    "publication_type": "article",
+    "description": "An explicit Pell rank-of-apparition family derived from classical prime-power lifting. The note isolates z_P(21^k)=4*21^(k-1) for k>=2 and the square-rank subfamily z_P(21^(2r+1))=(2*21^r)^2, while explicitly distinguishing the specialization from the classical general theory.",
+    "creators": [
+      {
+        "name": "St-Pierre, Gabriel"
+      }
+    ],
+    "keywords": [
+      "Pell sequence",
+      "rank of apparition",
+      "Lucas sequence",
+      "modular arithmetic",
+      "divisibility",
+      "prime-power lifting",
+      "Brutus-Pell"
+    ],
+    "language": "eng",
+    "access_right": "open",
+    "version": "0.1.0",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/Topbrutus/brutus-pell-square-rank-relation",
+        "relation": "isSupplementedBy",
+        "scheme": "url"
+      }
+    ],
+    "notes": "Bibliographic novelty is not claimed for the general Lucas-sequence lifting theorem. This record is intended as an explicit specialized note and reproducibility package."
+  }
+}
